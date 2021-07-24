@@ -1,4 +1,4 @@
-window.onload = function(){
+/*window.onload = function(){
    // var temp = `hello, this is naima`;
     //console.log(temp);
 
@@ -6,4 +6,10 @@ window.onload = function(){
         console.log(`my name is ${name} ans my age is ${age}`)
     }
     logNinja('naima', 25);
-}
+}*/
+let carName ='corolla';
+//carName ='civic';
+
+
+let carStatement = `This is a ${carName} car`;
+console.log(carStatement);
